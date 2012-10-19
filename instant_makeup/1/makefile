@@ -1,0 +1,2 @@
+show:
+	firefox out.html

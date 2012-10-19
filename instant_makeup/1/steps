@@ -1,0 +1,19 @@
+task:
+	makeup Blanks with tags
+	
+Blank-type:
+	headline
+	paragraph
+	...
+input:
+	plain-text
+	
+	>Get blanks(text, type)
+	>makeup blank.text with method blank.type
+	>print to thml file
+
+output:
+	html-text
+
+def:
+Blank: text, type
