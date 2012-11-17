@@ -64,7 +64,7 @@ endobj
 % 'R7': class PDFInfo 
 7 0 obj
 << /Author (anonymous)
- /CreationDate (D:20121117231935-08'00')
+ /CreationDate (D:20121117232627-08'00')
  /Creator (ReportLab PDF Library - www.reportlab.com)
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -81,7 +81,7 @@ endobj
 % 'R9': class PDFStream 
 9 0 obj
 % page stream
-<< /Length 673 >>
+<< /Length 777 >>
 stream
 1 0 0 1 0 0 cm  BT /F2 12 Tf 14.4 TL ET
 BT /F2 36 Tf 43.2 TL ET
@@ -122,6 +122,12 @@ q
 0 J
 n 23.33333 59 m 40 60 l 56.66667 60 l 73.33333 63 l 90 67 l 106.6667 67 l S
 Q
+q
+BT /F2 10 Tf 12 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 1 rg
+BT 1 0 0 1 60 110 Tm (Sunspots) Tj T* ET
+Q
 Q
 Q
  
@@ -144,15 +150,15 @@ xref
 0000001143 00000 n
 0000001603 00000 n
 0000001708 00000 n
-0000002480 00000 n
+0000002584 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\300KX\251\236\011<\314\362\264~\216\211^"\237) (\300KX\251\236\011<\314\362\264~\216\211^"\237)] 
+ [(R >5\224d\254x\021\220\337\230\343\006\336\304) (R >5\224d\254x\021\220\337\230\343\006\336\304)] 
 
  /Info 7 0 R
  /Root 6 0 R
  /Size 11 >>
 startxref
-2532
+2636
 %%EOF
