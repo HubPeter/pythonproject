@@ -30,4 +30,3 @@ drawing.add( title )
 #save to file
 renderPDF.drawToFile( drawing, 'prototype.pdf', 'Report of weater in \
 	special aspect' )
-
